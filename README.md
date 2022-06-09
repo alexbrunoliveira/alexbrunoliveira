@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando algumas linguagens como Java, Spring, HTML, CSS e javaScript
-- 😄 Pronouns: ele/ela
 
 <div align="center">
   <a href="https://github.com/alexbrunoliveira">
