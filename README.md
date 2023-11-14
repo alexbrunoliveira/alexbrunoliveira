@@ -1,9 +1,14 @@
+<img
+  src="https://api.dicebear.com/7.x/bottts/svg?seed=Loki"
+  alt="avatar"
+  width="100"
+  height="100"
+/>
 ### Olá! Eu sou o Alex Bruno
-
- 
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando algumas linguagens como Java, Spring, HTML, CSS e javaScript
+
 
 <div align="center">
   <a href="https://github.com/alexbrunoliveira">
